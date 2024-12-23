@@ -28,7 +28,7 @@ url: "JonTerry.github.io" # the base hostname & protocol for your site, e.g. htt
 github_username: JonTerry
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - minimal-mistakes-jekyll
