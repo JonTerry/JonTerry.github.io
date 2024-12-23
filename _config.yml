@@ -31,6 +31,7 @@ github_username: JonTerry
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
   - minimal-mistakes-jekyll
 # Exclude from processing.
 # The following items will not be processed, by default.
